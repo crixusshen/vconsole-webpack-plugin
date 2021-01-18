@@ -1,0 +1,37 @@
+{
+  "name": "vconsole-fastman-webpack-plugin",
+  "version": "1.0.1",
+  "description": "webpack plugin for vConsole",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diamont1001/vconsole-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "webpack-plugin",
+    "vConsole",
+    "vconsole"
+  ],
+  "author": "crixusshen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crixusshen/vconsole-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/crixusshen/vconsole-webpack-plugin#readme",
+  "dependencies": {
+    "vconsole": "3.3.4"
+  },
+  "devDependencies": {
+    "eslint": "^3.3.0",
+    "eslint-config-jr": "^1.0.0"
+  },
+  "__npminstall_done": "Mon Jan 18 2021 17:28:02 GMT+0800 (中国标准时间)",
+  "_from": "vconsole-webpack-plugin@1.5.2",
+  "_resolved": "https://registry.npm.taobao.org/vconsole-webpack-plugin/download/vconsole-webpack-plugin-1.5.2.tgz"
+}
